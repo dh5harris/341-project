@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dh5harris/341-test.git"
+    "url": "git+https://github.com/dh5harris/341-project.git"
   },
   "author": "Daniel Harris",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dh5harris/341-test/issues"
+    "url": "https://github.com/dh5harris/341-project/issues"
   },
-  "homepage": "https://github.com/dh5harris/341-test#readme",
+  "homepage": "https://github.com/dh5harris/341-project#readme",
   "dependencies": {
     "express": "^4.18.2"
   },
