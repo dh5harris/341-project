@@ -5,7 +5,7 @@
     "description": "Contacts",
     "version": "1.0.0"
   },
-  "host": "three41-project.onrender.com/",
+  "host": "three41-project.onrender.com",
   "basePath": "/",
   "schemes": [
     "https"
@@ -143,6 +143,13 @@
             "description": "Internal Server Error"
           }
         }
+      }
+    },
+    "/api-docs": {
+      "get": {
+        "description": "",
+        "parameters": [],
+        "responses": {}
       }
     }
   }
